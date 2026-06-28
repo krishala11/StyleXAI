@@ -1,6 +1,6 @@
 # AI Fashion Outfit Recommendation System
 
-End-to-end dual-mode fashion recommendation engine for the Dare XAI internship assessment.
+End-to-end dual-mode fashion recommendation engine 
 
 ## Stack
 
